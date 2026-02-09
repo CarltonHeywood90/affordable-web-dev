@@ -9,6 +9,7 @@ nav.innerHTML = `
             <li><a href="contact.html">Contact</a></li>
             <li><a href="booking.html">Booking</a></li>
             <li><a href="hours.html">Hours</a></li>
+            (li><a href="sitemap.html">Sitemap</a></li>
         </ul>
     </nav>
 `;
