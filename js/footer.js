@@ -2,6 +2,6 @@
 const footer = document.getElementById('footer');
 footer.innerHTML = `
     <footer>
-        <p>&copy; ${new Date().getFullYear()} Affordable Web Dev. All rights reserved.</p>
+        <p> ${new Date().getFullYear()} Affordable Web Dev. </p>
     </footer>
 `;
